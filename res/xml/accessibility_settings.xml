@@ -111,6 +111,10 @@
                 android:summary="@string/accessibility_toggle_master_mono_summary"
                 android:persistent="false"/>
 
+        <com.android.settings.accessibility.BalanceSeekBarPreference
+                android:key="seekbar_master_balance"
+                android:title="@string/accessibility_toggle_master_balance_title" />
+
         <Preference
                 android:fragment="com.android.settings.accessibility.CaptionPropertiesFragment"
                 android:key="captioning_preference_screen"

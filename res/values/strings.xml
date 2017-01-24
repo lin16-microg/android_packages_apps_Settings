@@ -4576,6 +4576,12 @@
     <string name="accessibility_toggle_master_mono_title">Mono audio</string>
     <!-- Summary for the accessibility preference for master mono. [CHAR LIMIT=50] -->
     <string name="accessibility_toggle_master_mono_summary">Combine channels when playing audio</string>
+    <!-- Title for the accessibility preference for master balance. [CHAR LIMIT=35] -->
+    <string name="accessibility_toggle_master_balance_title">Audio balance</string>
+    <!-- 'Left' balance text for the accessibility preference for master balance. [CHAR LIMIT=20] -->
+    <string name="accessibility_toggle_master_balance_left_label">Left</string>
+    <!-- 'Right' balance text for the accessibility preference for master balance. [CHAR LIMIT=20] -->
+    <string name="accessibility_toggle_master_balance_right_label">Right</string>
     <!-- Title for accessibility preference to choose long-press delay i.e. timeout before it is detected. [CHAR LIMIT=35] -->
     <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
     <!-- Title for the accessibility preference to configure display color inversion. [CHAR LIMIT=NONE] -->
