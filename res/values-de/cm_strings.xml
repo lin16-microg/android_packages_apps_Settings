@@ -297,4 +297,7 @@
     <string name="directly_show_lock_summary">Wischen zum Entsperren des Bildschirms überspringen und direkt mit der PIN-Eingabe beginnen</string>
     <string name="restore_hosts_switch_title">hosts Datei beim Update beibehalten</string>
     <string name="restore_hosts_switch_summary">Sichern und Wiederherstellen der /etc/hosts Datei bei einem Update. Dieses ROM liefert eine regelmäßig aktualisierte hosts Datei mit vielen blockierten Werbe-/Malware-Seiten.\nDie Einstellung macht daher nur Sinn bei Verwendung einer Hosts-Editor-App.</string>
+    <string name="captive_portal_switch_title">Captive Portal Erkennung</string>
+    <string name="captive_portal_switch_summary">Ein-/Ausschalten der Captive-Portal-Erkennung (Vorgabe EIN).\nHierbei wird bei jeder WLAN-Anmeldung eine Verbindung zu Google aufgebaut.</string>
+    <string name="captive_portal_switch_warning">Nach dem Ausschalten der Captive-Portal-Erkennung empfangen Sie keine Verbindungs-Rückmeldung mehr. Wirklich fortfahren?</string>
 </resources>

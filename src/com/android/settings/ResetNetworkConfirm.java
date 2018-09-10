@@ -32,6 +32,7 @@ import android.os.Bundle;
 import android.os.RecoverySystem;
 import android.os.UserHandle;
 import android.os.UserManager;
+import android.provider.Settings;
 import android.provider.Telephony;
 import android.support.annotation.VisibleForTesting;
 import android.telephony.SubscriptionManager;
@@ -152,6 +153,10 @@ public class ResetNetworkConfirm extends InstrumentedFragment {
 
             ImsManager.factoryReset(context);
             restoreDefaultApn(context);
+
+            Settings.Global.putInt(context.getContentResolver(),
+                    Settings.Global.CAPTIVE_PORTAL_MODE, 1);
+
             esimFactoryReset(context, context.getPackageName());
             // There has been issues when Sms raw table somehow stores orphan
             // fragments. They lead to garbled message when new fragments come

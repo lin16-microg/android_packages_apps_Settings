@@ -44,7 +44,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class NetworkDashboardFragment extends DashboardFragment implements
-        MobilePlanPreferenceHost {
+        MobilePlanPreferenceHost, CaptivePortalWarningDialogHost {
 
     private static final String TAG = "NetworkDashboardFrag";
 
@@ -95,6 +95,8 @@ public class NetworkDashboardFragment extends DashboardFragment implements
                 new VpnPreferenceController(context);
         final PrivateDnsPreferenceController privateDnsPreferenceController =
                 new PrivateDnsPreferenceController(context);
+        final CaptivePortalModePreferenceController captiveportalModePreferenceController =
+                new CaptivePortalModePreferenceController(context, fragment);
 
         if (lifecycle != null) {
             lifecycle.addObserver(mobilePlanPreferenceController);
@@ -112,7 +114,20 @@ public class NetworkDashboardFragment extends DashboardFragment implements
         controllers.add(mobilePlanPreferenceController);
         controllers.add(wifiPreferenceController);
         controllers.add(privateDnsPreferenceController);
+        controllers.add(captiveportalModePreferenceController);
         return controllers;
+    }
+
+    public void onCaptivePortalSwitchOffDialogConfirmed() {
+        final CaptivePortalModePreferenceController controller =
+                use(CaptivePortalModePreferenceController.class);
+        controller.onCaptivePortalSwitchOffDialogConfirmed();
+    }
+
+    public void onCaptivePortalSwitchOffDialogDismissed() {
+        final CaptivePortalModePreferenceController controller =
+                use(CaptivePortalModePreferenceController.class);
+        controller.onCaptivePortalSwitchOffDialogDismissed();
     }
 
     @Override

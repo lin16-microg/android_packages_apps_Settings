@@ -101,4 +101,10 @@
         android:positiveButtonText="@string/save"
         android:negativeButtonText="@android:string/cancel" />
 
+    <SwitchPreference
+        android:key="captive_portal_switch"
+        android:title="@string/captive_portal_switch_title"
+        android:summary="@string/captive_portal_switch_summary"
+        android:order="20"/>
+
 </PreferenceScreen>
