@@ -107,4 +107,10 @@
         android:summary="@string/captive_portal_switch_summary"
         android:order="20"/>
 
+    <SwitchPreference
+        android:key="ziptables_block_switch"
+        android:title="@string/ziptables_block_switch_title"
+        android:summary="@string/ziptables_block_switch_summary"
+        android:order="25"/>
+
 </PreferenceScreen>

@@ -391,6 +391,10 @@
     <string name="captive_portal_switch_summary">Enable or disable the captive portal probing for connection attempts (default ON).\nA connection to Google is established at every WiFi authentication.</string>
     <string name="captive_portal_switch_warning">If you switch off the captive portal, you will not receive connectivity informations any longer. Really switch off?</string>
 
+    <!-- Iptables Block-script -->
+    <string name="ziptables_block_switch_title">Apply iptables block script</string>
+    <string name="ziptables_block_switch_summary">Block entire Facebook IP range for all apps and block entire Google IP range for most apps (specific apps on exception list)</string>
+
     <!-- Battery saving mode for Location - GPS will be disabled -->
     <string name="location_mode_battery_saving_title">Battery saving mode</string>
     <string name="location_mode_battery_saving_summary">Use only Wi\u2011Fi, Bluetooth, or cellular networks to determine location (less accurate)</string>
