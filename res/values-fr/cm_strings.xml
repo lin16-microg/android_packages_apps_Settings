@@ -40,6 +40,7 @@
     <string name="app_ops_categories_device">Appareil</string>
     <string name="app_ops_categories_run_in_background">Exécuter en arrière plan</string>
     <string name="app_ops_categories_bootup">Démarrage</string>
+    <string name="app_ops_categories_sensors">Capteurs</string>
     <string name="app_ops_categories_su">Accès root</string>
     <string name="app_ops_categories_other">Autre</string>
     <string name="app_ops_summaries_access_notifications">accéder aux notifications</string>
@@ -63,7 +64,9 @@
     <string name="app_ops_summaries_modify_settings">modifier les paramètres</string>
     <string name="app_ops_summaries_monitor_high_power_location">surveiller la position (à puissance élevée)</string>
     <string name="app_ops_summaries_monitor_location">surveiller la position</string>
+    <string name="app_ops_summaries_motion_sensors">utiliser les capteurs de mouvement</string>
     <string name="app_ops_summaries_mute_unmute_microphone">activer/désactiver le microphone</string>
+    <string name="app_ops_summaries_other_sensors">utiliser d\'autres capteurs</string>
     <string name="app_ops_summaries_phone_calls">répondre aux appels téléphoniques</string>
     <string name="app_ops_summaries_picture_in_picture">utiliser le mode Picture-in-Picture</string>
     <string name="app_ops_summaries_play_audio">lecture audio</string>
@@ -110,7 +113,9 @@
     <string name="app_ops_labels_modify_settings">Modifier les paramètres</string>
     <string name="app_ops_labels_monitor_high_power_location">Surveiller la position (à puissance élevée)</string>
     <string name="app_ops_labels_monitor_location">Surveiller la position</string>
+    <string name="app_ops_labels_motion_sensors">Capteur de mouvement</string>
     <string name="app_ops_labels_mute_unmute_microphone">Activer/désactiver le microphone</string>
+    <string name="app_ops_labels_other_sensors">autres Capteurs</string>
     <string name="app_ops_labels_phone_calls">Répondre aux appels téléphoniques</string>
     <string name="app_ops_labels_picture_in_picture">Utiliser le mode Picture-in-Picture</string>
     <string name="app_ops_labels_play_audio">Lecture audio</string>

@@ -51,6 +51,7 @@
         <item>@string/app_ops_categories_run_in_background</item>
         <item>@string/app_ops_categories_bootup</item>
         <item>@string/app_ops_categories_su</item>
+        <item>@string/app_ops_categories_sensors</item>
         <item>@string/app_ops_categories_other</item>
     </string-array>
 
@@ -222,6 +223,10 @@
         <item>@string/app_ops_summaries_toggle_mobile_data</item>
         <!-- OP_SU -->
         <item>@string/app_ops_summaries_su</item>
+        <!-- OP_MOTION_SENSORS -->
+        <item>@string/app_ops_summaries_motion_sensors</item>
+        <!-- OP_OTHER_SENSORS -->
+        <item>@string/app_ops_summaries_other_sensors</item>
     </string-array>
 
     <!-- User display names for app ops codes - extension of AOSP -->
@@ -392,6 +397,10 @@
         <item>@string/app_ops_labels_toggle_mobile_data</item>
         <!-- OP_SU -->
         <item>@string/app_ops_labels_su</item>
+        <!-- OP_MOTION_SENSORS -->
+        <item>@string/app_ops_labels_motion_sensors</item>
+        <!-- OP_OTHER_SENSORS -->
+        <item>@string/app_ops_labels_other_sensors</item>
     </string-array>
 
     <!-- App ops permissions -->
