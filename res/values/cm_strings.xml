@@ -374,6 +374,9 @@
     <string name="directly_show_lock">Direct unlock</string>
     <string name="directly_show_lock_summary">Skip the swipe to unlock screen and immediately begin key entry</string>
 
+    <!-- Jump to lockscreen tuner to let user change lockscreen shortcuts -->
+    <string name="open_lockscreen_tuner">Change shortcuts</string>
+
     <!-- hosts backup/retore -->
     <string name="restore_hosts_switch_title">Restore hosts file during update</string>
     <string name="restore_hosts_switch_summary">If active, the /etc/hosts file is restored during an update. This ROM delivers a regularly updated hosts file with many blocked ad-/malware sites.\nThis setting therefore only makes sense, if you use a hosts editor app.</string>
