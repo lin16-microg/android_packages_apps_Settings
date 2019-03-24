@@ -385,4 +385,8 @@
     <string name="captive_portal_switch_title">Captive portal mode</string>
     <string name="captive_portal_switch_summary">Enable or disable the captive portal probing for connection attempts (default ON).\nA connection to Google is established at every WiFi authentication.</string>
     <string name="captive_portal_switch_warning">If you switch off the captive portal, you will not receive connectivity informations any longer. Really switch off?</string>
+
+    <!-- Battery saving mode for Location - GPS will be disabled -->
+    <string name="location_mode_battery_saving_title">Battery saving mode</string>
+    <string name="location_mode_battery_saving_summary">Use only Wi\u2011Fi, Bluetooth, or mobile networks to determine location (less accurate)</string>
 </resources>
