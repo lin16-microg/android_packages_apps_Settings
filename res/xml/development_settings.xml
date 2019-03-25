@@ -354,6 +354,11 @@
             android:entries="@array/bluetooth_max_connected_audio_devices"
             android:entryValues="@array/bluetooth_max_connected_audio_devices_values" />
 
+        <SwitchPreference
+            android:key="restore_hosts_switch"
+            android:title="@string/restore_hosts_switch_title"
+            android:summary="@string/restore_hosts_switch_summary"/>
+
     </PreferenceCategory>
 
     <PreferenceCategory
