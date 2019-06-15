@@ -10087,8 +10087,4 @@
 
     <!-- Title for Connected device shortcut [CHAR LIMIT=30] -->
     <string name="devices_title">Devices</string>
-
-    <!-- /e/ specific changes -->
-    <string name="micro_g">MicroG</string>
-    <string name="micro_g_title">Access to MicroG settings</string>
 </resources>

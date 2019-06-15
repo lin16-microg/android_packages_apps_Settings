@@ -21,7 +21,6 @@ import com.android.settings.DeviceAdminSettings;
 import com.android.settings.DisplaySettings;
 import com.android.settings.IccLockSettings;
 import com.android.settings.MasterClear;
-import com.android.settings.MicroGSettings;
 import com.android.settings.PrivacySettings;
 import com.android.settings.Settings;
 import com.android.settings.TestingSettings;
@@ -264,7 +263,6 @@ public class SettingsGateway {
             DirectoryAccessDetails.class.getName(),
             ToggleBackupSettingFragment.class.getName(),
             PreviouslyConnectedDeviceDashboardFragment.class.getName(),
-            MicroGSettings.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
