@@ -301,4 +301,7 @@
     <string name="captive_portal_switch_title">Captive Portal Erkennung</string>
     <string name="captive_portal_switch_summary">Ein-/Ausschalten der Captive-Portal-Erkennung (Vorgabe EIN).\nHierbei wird bei jeder WLAN-Anmeldung eine Verbindung zu Google aufgebaut.</string>
     <string name="captive_portal_switch_warning">Nach dem Ausschalten der Captive-Portal-Erkennung empfangen Sie keine Verbindungs-Rückmeldung mehr. Wirklich fortfahren?</string>
+    <string name="open_lockscreen_tuner">Verknüpfungen ändern</string>
+    <string name="location_mode_battery_saving_title">Energiesparmodus</string>
+    <string name="location_mode_battery_saving_summary">Nur WLAN, Bluetooth oder Mobilfunknetze zur Standortbestimmung nutzen (weniger genau)</string>
 </resources>
