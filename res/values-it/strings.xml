@@ -3047,6 +3047,8 @@
     <string name="ring_volume_option_title" msgid="6767101703671248309">"Volume suoneria"</string>
     <string name="notification_volume_option_title" msgid="6064656124416882130">"Volume notifiche"</string>
     <string name="ringtone_title" msgid="5379026328015343686">"Suoneria telefono"</string>
+    <string name="ringtone1_title">Suoneria telefono - SIM 1</string>
+    <string name="ringtone2_title">Suoneria telefono - SIM 2</string>
     <string name="notification_ringtone_title" msgid="4468722874617061231">"Suono di notifica predefinito"</string>
     <string name="notification_unknown_sound_title" msgid="2535027767851838335">"Audio fornito dall\'app"</string>
     <string name="notification_sound_default" msgid="565135733949733766">"Suono di notifica predefinito"</string>

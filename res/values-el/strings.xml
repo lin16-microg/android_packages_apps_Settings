@@ -3047,6 +3047,8 @@
     <string name="ring_volume_option_title" msgid="6767101703671248309">"Ένταση ήχου κλήσης"</string>
     <string name="notification_volume_option_title" msgid="6064656124416882130">"Ένταση ήχου ειδοποίησης"</string>
     <string name="ringtone_title" msgid="5379026328015343686">"Ήχος κλήσης τηλεφώνου"</string>
+    <string name="ringtone1_title">Ήχος κλήσης τηλεφώνου - SIM 1</string>
+    <string name="ringtone2_title">Ήχος κλήσης τηλεφώνου - SIM 2</string>
     <string name="notification_ringtone_title" msgid="4468722874617061231">"Προεπιλεγμ. ήχος ειδοποίησης"</string>
     <string name="notification_unknown_sound_title" msgid="2535027767851838335">"Προσθήκη παρεχόμενου ήχου"</string>
     <string name="notification_sound_default" msgid="565135733949733766">"Προεπιλεγμένος ήχος ειδοποίησης"</string>
