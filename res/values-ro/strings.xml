@@ -3081,6 +3081,8 @@
     <string name="ring_volume_option_title" msgid="6767101703671248309">"Volum sonerie"</string>
     <string name="notification_volume_option_title" msgid="6064656124416882130">"Volumul notificărilor"</string>
     <string name="ringtone_title" msgid="5379026328015343686">"Ton de sonerie al telefonului"</string>
+    <string name="ringtone1_title">Ton de sonerie al telefonului SIM 1</string>
+    <string name="ringtone2_title">Ton de sonerie al telefonului SIM 2</string>
     <string name="notification_ringtone_title" msgid="4468722874617061231">"Sunet de notificare prestabilit"</string>
     <string name="notification_unknown_sound_title" msgid="2535027767851838335">"Sunet oferit de aplicație"</string>
     <string name="notification_sound_default" msgid="565135733949733766">"Sunet de notificare prestabilit"</string>

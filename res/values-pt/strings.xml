@@ -3047,6 +3047,8 @@
     <string name="ring_volume_option_title" msgid="6767101703671248309">"Volume do toque"</string>
     <string name="notification_volume_option_title" msgid="6064656124416882130">"Volume das notificações"</string>
     <string name="ringtone_title" msgid="5379026328015343686">"Toque do telefone"</string>
+    <string name="ringtone1_title">Toque do telefone - SIM 1</string>
+    <string name="ringtone2_title">Toque do telefone - SIM 2</string>
     <string name="notification_ringtone_title" msgid="4468722874617061231">"Som de notificação padrão"</string>
     <string name="notification_unknown_sound_title" msgid="2535027767851838335">"Som fornecido pelo app"</string>
     <string name="notification_sound_default" msgid="565135733949733766">"Som de notificação padrão"</string>

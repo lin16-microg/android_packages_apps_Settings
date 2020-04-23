@@ -3048,6 +3048,8 @@
     <string name="ring_volume_option_title" msgid="6767101703671248309">"铃声音量"</string>
     <string name="notification_volume_option_title" msgid="6064656124416882130">"通知音量"</string>
     <string name="ringtone_title" msgid="5379026328015343686">"手机铃声"</string>
+    <string name="ringtone1_title">SIM 1 手机铃声</string>
+    <string name="ringtone2_title">SIM 2 手机铃声</string>
     <string name="notification_ringtone_title" msgid="4468722874617061231">"默认通知提示音"</string>
     <string name="notification_unknown_sound_title" msgid="2535027767851838335">"应用提供的提示音"</string>
     <string name="notification_sound_default" msgid="565135733949733766">"默认通知提示音"</string>

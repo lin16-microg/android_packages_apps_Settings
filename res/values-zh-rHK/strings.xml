@@ -3050,6 +3050,8 @@
     <string name="ring_volume_option_title" msgid="6767101703671248309">"鈴聲音量"</string>
     <string name="notification_volume_option_title" msgid="6064656124416882130">"通知音量"</string>
     <string name="ringtone_title" msgid="5379026328015343686">"電話鈴聲"</string>
+    <string name="ringtone1_title">SIM 1 電話鈴聲</string>
+    <string name="ringtone2_title">SIM 2 電話鈴聲</string>
     <string name="notification_ringtone_title" msgid="4468722874617061231">"預設通知音效"</string>
     <string name="notification_unknown_sound_title" msgid="2535027767851838335">"應用程式提供的音效"</string>
     <string name="notification_sound_default" msgid="565135733949733766">"預設通知音效"</string>
