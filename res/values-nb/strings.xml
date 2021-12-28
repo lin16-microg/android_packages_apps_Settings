@@ -1962,6 +1962,9 @@
     <string name="accessibility_disable_animations" msgid="5876035711526394795">"Fjern animasjoner"</string>
     <string name="accessibility_toggle_master_mono_title" msgid="4363806997971905302">"Monolyd"</string>
     <string name="accessibility_toggle_master_mono_summary" msgid="5634277025251530927">"Kombiner kanaler når du spiller av lyd"</string>
+    <string name="accessibility_toggle_master_balance_title" msgid="895584329613310279">"Lydbalanse"</string>
+    <string name="accessibility_toggle_master_balance_left_label" msgid="147010366022601825">"Venstre"</string>
+    <string name="accessibility_toggle_master_balance_right_label" msgid="5028519887058073990">"Høyre"</string>
     <string name="accessibility_long_press_timeout_preference_title" msgid="6708467774619266508">"Forsinkelse for trykk-og-hold"</string>
     <string name="accessibility_display_inversion_preference_title" msgid="2119647786141420802">"Fargeinvertering"</string>
     <string name="accessibility_display_inversion_preference_subtitle" msgid="7052959202195368109">"Kan påvirke ytelsen"</string>
